@@ -1,0 +1,8 @@
+UTK IMPORT CSV KE MYSQL GANTI TANDA , MENJADI TITIK KOMA ;
+
+Pilih atau klik Tab Import, pilih file dengan menekan "browse". Set format ke CSV. Pada "Columns separated with" yang awalnya berisi tanda koma (,) ganti dengan tanda titik koma (;). Kemudian Klik Go
+http://howeby.blogspot.com/2017/01/mengatasi-invalid-column-count-in-csv.html
+
+
+
+https://dewankomputer.com/2019/01/09/qrcode-yaitu-cara-membuat-qrcode-generator-menggunakan-php-part-5-dinamis-dari-database-mysql/
